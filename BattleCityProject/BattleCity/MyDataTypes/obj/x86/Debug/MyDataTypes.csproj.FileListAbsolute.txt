@@ -1,6 +1,0 @@
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\bin\x86\Debug\MyDataTypes.dll
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\bin\x86\Debug\MyDataTypes.pdb
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Debug\MyDataTypes.dll
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Debug\MyDataTypes.pdb
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Debug\MyDataTypes.csprojResolveAssemblyReference.cache

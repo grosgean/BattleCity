@@ -1,5 +1,0 @@
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\bin\x86\Release\MyDataTypes.dll
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\bin\x86\Release\MyDataTypes.pdb
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Release\MyDataTypes.dll
-C:\Users\Vano\Documents\Visual Studio 2010\Projects\BattleCity\MyDataTypes\obj\x86\Release\MyDataTypes.pdb
