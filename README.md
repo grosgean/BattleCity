@@ -3,8 +3,8 @@
 I created it in Microsoft Visual C# 2010 Express, Microsoft XNA Game Studio 4.0 Refresh
 
 This project is my first experience in C#, XNA and gamedev also.
-I started it after the course "Beginning Game Programming with C#" in coursera.org
-It took me about 3 month in my spare time, some days I did a lot, some weeks I did nothing.
+I started it after the course "Beginning Game Programming with C#" in coursera.org.
+It took me about 3 month of my spare time, some days I did a lot, some weeks I did nothing.
 I tried it to be as similar to original Battle City as it is possible;
 
 There is only 1 player, 10 levels, 6 bonuses.
