@@ -13,9 +13,9 @@ There is many to do but all main things are working. Maybe there is some bugs, b
 
 Control: Arrows, Space, Enter - start & pause.
 
-You need to copy this files to Projects folder of Visual Studio, open it and start by Ctrl-F5.
+You need to copy this project to Projects folder of Visual Studio, open it and start by Ctrl-F5.
 
-There is also a compiled version in file battle.zip. You can simply install it without Visual Studio.
+There is also a compiled version in zip and rar files. You can simply install it without Visual Studio.
 
 In Fabruary 2015 on coursera.org starts a new course - Beginning Game Programming with C#, 
 so I leave this project to inspire the new students.
